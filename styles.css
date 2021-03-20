@@ -1,0 +1,12 @@
+.edhi_links {
+	color: red;
+	display: block;
+}
+.fbtn-1,
+.fbtn-2,
+.fbtn-3,
+.fbtn-4,
+.fbtn-5,
+.fbtn-6 {
+	width: 6vw !important;
+}
